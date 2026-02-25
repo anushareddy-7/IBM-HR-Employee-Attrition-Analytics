@@ -1,9 +1,8 @@
 **Employee Attrition Analysis-IBM HR Dataset**
 
-**Problem Statement**
+**Problem Statetement**
 
-Employee attrition significantly impacts organizational productivity and costs.
-This project analyzes the key factors influencing employee turnover using the IBM HR Analytics dataset.
+This project analyzes the key factors influencing employee turnover using the IBM HR Analytics dataset Where employee attrition significantly impacts organizational productivity and costs.
 
 **Tools & Technologies**
 
