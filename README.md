@@ -1,10 +1,10 @@
-**Employee Attrition Analysis-IBM HR Dataset**
+##Employee Attrition Analysis-IBM HR Dataset
 
-**Problem Statetement**
+##Problem Statetement**
 
 This project analyzes the key factors influencing employee turnover using the IBM HR Analytics dataset Where employee attrition significantly impacts organizational productivity and costs.
 
-**Tools & Technologies**
+##Tools & Technologies
 
 1.Python
 
@@ -18,7 +18,7 @@ This project analyzes the key factors influencing employee turnover using the IB
 
 6.Juptyer Notebook
 
-**Key Analysis Performed**
+##Key Analysis Performed
 
 1.Overall Attrition Rate Calculation
 
@@ -32,7 +32,7 @@ This project analyzes the key factors influencing employee turnover using the IB
 
 6.Custom Attrition Rate Function
 
-**Business Recommendations**
+##Business Recommendations
 
 1.Improve employee engagement initiatives
 
